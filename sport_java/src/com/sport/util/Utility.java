@@ -10,4 +10,7 @@ public class Utility {
 		System.out.println(d.getDate());
 	}
 
+	public void m1() {
+		System.out.println("this is utility method");
+	}
 }
